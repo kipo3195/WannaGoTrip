@@ -9,6 +9,7 @@ public class MemberController {
 	//hhhhhhhhh
 	//bbbbbbbbb
 	//ccccccc
+	//ddddddd
 	@RequestMapping("/join")
 	public void memberjoin() {
 		
